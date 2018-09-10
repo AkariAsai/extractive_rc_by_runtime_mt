@@ -1,5 +1,5 @@
 # Multilingual Extractive Reading Comprehension by Runtime Machine Translation
-we introduce the first extractive RC systems for  non-English languages, without using language-specific RC training data, but instead by using an English RC model and an attention-based Neural Machine Translation (NMT) model [1].  
+We introduce the first extractive RC systems for  non-English languages, without using language-specific RC training data, but instead by using an English RC model and an attention-based Neural Machine Translation (NMT) model [1].  
 
 ![The Overview](https://github.com/AkariAsai/extractive_rc_by_runtime_mt/blob/master/overview.png)
 
@@ -28,6 +28,16 @@ More details can be found in Supplementary Material Section A (Details of Wikipe
 | Japanese     | [train.ja](), [train.en]() | [train.ja](), [dev.en]() |
 | French  | [train.fr](), [train.en]() | [dev.fr](), [dev.en]() |
 
+###### Manually translated question sentences
+In our experiment, we also found that adding a small number of manually translated question sentences could further improve the extractive RC performance.   
+Here, we also provide the translated question sentences we actually used to train our NMT models.  
+The details pf the creation of these small parallel questions datasets can be found in Supplementary Material Section C (Details of Manually Translated SQuAD DatasetQuestions Creation) in [1].
+
+| | question sentences        |
+| ------------- |:-------------:|
+| Japanese     | [questions.ja](), [questions.en]() |
+| French  | [questions.fr](), [questions.en]() |
+
 #### Multilingual SQuAD Datasets
 The Japanese and French datasets are created by manually translating the original [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) (v1.1) development dataset into the Japanese and French.
 These datasets contains 327 questions for each.  
@@ -38,16 +48,6 @@ More details can be found in Section 3.3 (SQuAD Test Data for Japanese and Frenc
 | Japanese    | [japanese_squad.json]() |
 | French | [french_squad.json]() |
 
-###### Manually translated question sentences
-In our experiment, we also found that adding a small number of manually translated question sentences could further improve the extractive RC performance.   
-Here, we also provide the translated question sentences we actually used to train our NMT models.  
-The details pf the creation of these small parallel questions datasets can be found in Supplementary Material Section C (Details of Manually Translated SQuAD DatasetQuestions Creation) in [1].
-
-| | question sentences        |
-| ------------- |:-------------:| :-----:|
-| Japanese     | [questions.ja](), [questions.en]() |
-| French  | [questions.fr](), [questions.en]() |
-
 
 
 ## Benchmarks
@@ -56,7 +56,7 @@ We provide the results of our proposed method on multilingual SQuAD datasets.
 
 | methods|F1          | EM  |
 | ------------- |:-------------:| :-----:|
-| Our Method| **52.19** | **37.00 ** |
+| Our Method| **52.19** | **37.00** |
 | back-translation baseline| 42.60|24.77|
 
 - French
@@ -76,7 +76,7 @@ Please cite [1] if you found the resources in this repository useful.
 ```
 @article{,
   title={Multilingual Extractive Reading Comprehension by Runtime Machine Translation},
-  author={Asai, Akari and Eriguchi, Akiko  and Hashimoto, Kazuma  and  Tsuruoka, Yoshimasa},
+  author={Asai, Akari and Eriguchi, Akiko and Hashimoto, Kazuma and Tsuruoka, Yoshimasa},
   journal={arXiv:},
   year={2018}
 }
