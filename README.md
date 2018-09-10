@@ -44,7 +44,7 @@ These datasets contains 327 questions for each.
 More details can be found in Section 3.3 (SQuAD Test Data for Japanese and French) in [1].
 
 | | Multilingual SQuAD Datasets       |
-| ------------- |:-------------:| :-----:|
+| ------------- |:-------------:| 
 | Japanese    | [japanese_squad.json]() |
 | French | [french_squad.json]() |
 
