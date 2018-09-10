@@ -15,7 +15,18 @@ Code will be released soon.
 We implemented our NMT and extractive RC models (BiDAF, BiDAF + Self Attention + ELMo) in [PyTorch](https://pytorch.org/).
 
 ## Datasets
-We provide (1) Wikipedia-based {French, Japanese}-to-English bilingual corpora and (2) French and Japanese SQuAD datasets.
+We provide (1) multilingual SQuAD Datasets (Japanese, French), (2) Wikipedia-based {Japanese, French}-to-English bilingual corpora.
+
+#### Multilingual SQuAD Datasets
+The Japanese and French datasets are created by manually translating the original [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) (v1.1) development dataset into Japanese and French.  
+These datasets contains 327 questions for each.  
+More details can be found in Section 3.3 (SQuAD Test Data for Japanese and French) in [1].
+
+| | Multilingual SQuAD Datasets       |
+| ------------- |:-------------:|
+| Japanese    | [japanese_squad.json](datasets/squad_japanese_test.json) |
+| French | [french_squad.json](datasets/squad_french_test.json) |
+
 
 #### {Japanese, French}-to-English bilingual Corpus
 To train the NMT model for specific language directions, we take advantage of constantly growing web resources to automatically construct parallel corpora, rather than assuming the availability of high quality parallel corpora of the target domain.  
@@ -23,10 +34,7 @@ We constructed bilingual corpora from Wikipedia articles, using its inter-langua
 More details can be found in Supplementary Material Section A (Details of Wikipedia-based Bilingual CorpusCreation) in [1].
 
 ###### Wikipedia-based {Japanese, French}-to-English bilingual corpus
-| | train          | dev  |
-| ------------- |:-------------:| :-----:|
-| Japanese     | [train.ja](), [train.en]() | [train.ja](), [dev.en]() |
-| French  | [train.fr](), [train.en]() | [dev.fr](), [dev.en]() |
+The Wikipedia-based {Japanese, French}-to-English bilingual corpora will be released soon.
 
 ###### Manually translated question sentences
 In our experiment, we also found that adding a small number of manually translated question sentences could further improve the extractive RC performance.   
@@ -35,19 +43,8 @@ The details pf the creation of these small parallel questions datasets can be fo
 
 | | question sentences        |
 | ------------- |:-------------:|
-| Japanese     | [questions.ja](), [questions.en]() |
-| French  | [questions.fr](), [questions.en]() |
-
-#### Multilingual SQuAD Datasets
-The Japanese and French datasets are created by manually translating the original [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) (v1.1) development dataset into the Japanese and French.
-These datasets contains 327 questions for each.  
-More details can be found in Section 3.3 (SQuAD Test Data for Japanese and French) in [1].
-
-| | Multilingual SQuAD Datasets       |
-| ------------- |:-------------:| 
-| Japanese    | [japanese_squad.json]() |
-| French | [french_squad.json]() |
-
+| Japanese     | [questions.ja](datasets/questions_jaen.ja), [questions.en](datasets/questions_jaen.en) |
+| French  | [questions.fr](datasets/questions_fren.fr), [questions.en](datasets/questions_jaen.en) |
 
 
 ## Benchmarks
