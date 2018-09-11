@@ -68,16 +68,7 @@ We provide the results of our proposed method on multilingual SQuAD datasets.
 ## Reference
 Please cite [1] if you found the resources in this repository useful.
 
-[1] Akari Asai, Akiko Eriguchi, Kazuma Hashimoto, and Yoshimasa Tsuruoka. 2018. "Multilingual Extractive Reading Comprehension by Runtime Machine Translation"
-
-```
-@article{,
-  title={Multilingual Extractive Reading Comprehension by Runtime Machine Translation},
-  author={Asai, Akari and Eriguchi, Akiko and Hashimoto, Kazuma and Tsuruoka, Yoshimasa},
-  journal={arXiv:},
-  year={2018}
-}
-```
+[1] Akari Asai, Akiko Eriguchi, Kazuma Hashimoto, and Yoshimasa Tsuruoka. 2018. "[Multilingual Extractive Reading Comprehension by Runtime Machine Translation](https://arxiv.org/abs/1809.03275)".
 
 ## Contact
 Please direct any questions to [Akari Asai](https://akariasai.github.io/) at akari-asai@g.ecc.u-tokyo.ac.jp.
