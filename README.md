@@ -11,11 +11,11 @@ We introduce the first extractive RC systems for  non-English languages, without
 5. [Contact](#contact)
 
 ## Code
-Code will be released soon.  
-We implemented our NMT and extractive RC models (BiDAF, BiDAF + Self Attention + ELMo) in [PyTorch](https://pytorch.org/).
+We implemented our NMT and extractive RC models (BiDAF, BiDAF + Self Attention + ELMo) in [PyTorch](https://pytorch.org/).  
+**Code will be released soon.**
 
 ## Datasets
-We provide (1) multilingual SQuAD Datasets (Japanese, French), (2) Wikipedia-based {Japanese, French}-to-English bilingual corpora.
+We provide the two datasets, (1) multilingual SQuAD Datasets (Japanese, French) and (2) {Japanese, French}-to-English bilingual corpora to train our NMT models for the extractive RC system.
 
 #### Multilingual SQuAD Datasets
 The Japanese and French datasets are created by manually translating the original [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) (v1.1) development dataset into Japanese and French.  
@@ -28,15 +28,14 @@ More details can be found in Section 3.3 (SQuAD Test Data for Japanese and Frenc
 | French | [french_squad.json](datasets/squad_french_test.json) |
 
 
-#### {Japanese, French}-to-English bilingual Corpus
+#### {Japanese, French}-to-English bilingual Corpora
+##### Wikipedia-based {Japanese, French}-to-English bilingual corpora
 To train the NMT model for specific language directions, we take advantage of constantly growing web resources to automatically construct parallel corpora, rather than assuming the availability of high quality parallel corpora of the target domain.  
 We constructed bilingual corpora from Wikipedia articles, using its inter-language links and [hunalign](https://github.com/danielvarga/hunalign), a sentence-level aligner.  
-More details can be found in Supplementary Material Section A (Details of Wikipedia-based Bilingual CorpusCreation) in [1].
+More details can be found in Supplementary Material Section A (Details of Wikipedia-based Bilingual CorpusCreation) in [1].  
+**The Wikipedia-based {Japanese, French}-to-English bilingual corpora will be released soon.**
 
-###### Wikipedia-based {Japanese, French}-to-English bilingual corpus
-The Wikipedia-based {Japanese, French}-to-English bilingual corpora will be released soon.
-
-###### Manually translated question sentences
+##### Manually translated question sentences
 In our experiment, we also found that adding a small number of manually translated question sentences could further improve the extractive RC performance.   
 Here, we also provide the translated question sentences we actually used to train our NMT models.  
 The details pf the creation of these small parallel questions datasets can be found in Supplementary Material Section C (Details of Manually Translated SQuAD DatasetQuestions Creation) in [1].
