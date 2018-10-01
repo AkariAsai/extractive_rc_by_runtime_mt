@@ -33,7 +33,19 @@ More details can be found in Section 3.3 (SQuAD Test Data for Japanese and Frenc
 To train the NMT model for specific language directions, we take advantage of constantly growing web resources to automatically construct parallel corpora, rather than assuming the availability of high quality parallel corpora of the target domain.  
 We constructed bilingual corpora from Wikipedia articles, using its inter-language links and [hunalign](https://github.com/danielvarga/hunalign), a sentence-level aligner.  
 More details can be found in Supplementary Material Section A (Details of Wikipedia-based Bilingual CorpusCreation) in [1].  
-**The Wikipedia-based {Japanese, French}-to-English bilingual corpora will be released soon.**
+
+To download preprocessed Wikipedia-based {Japanese, French}-to-English bilingual corpora, please run the commands below.  
+
+```sh
+cd datasets
+wget http://www.hal.t.u-tokyo.ac.jp/~asai/datasets/extractive_rc_by_runtime_mt/wiki_corpus.tar.gz
+tar -xvf wiki_corpus.tar.gz && rm -f wiki_corpus.tar.gz
+cd ..
+```
+
+The downloaded wikipedia-based corpora will be placed under `datasets/wiki_corpus` folder.  
+The training data includes 1,000,000 pairs, and
+the development data includes 2,000 pairs.
 
 ##### Manually translated question sentences
 In our experiment, we also found that adding a small number of manually translated question sentences could further improve the extractive RC performance.   
