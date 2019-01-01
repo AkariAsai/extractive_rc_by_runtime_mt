@@ -1,0 +1,249 @@
+sent_index,title,para_idx,source_sentence
+0,Super_Bowl_50,1,Super Bowl 50 était un match de football américain pour déterminer le champion de la National Football League pour la saison 2015.
+1,Super_Bowl_50,1,"Le Denver Broncos, le champion de la Conférence américaine de football (AFC), a battu le Carolina Panthers, la championne de la National Football Conference (NFC), 24-10 pour remporter son troisième titre du Super Bowl."
+2,Super_Bowl_50,1,"Le match a eu lieu le 7 février 2016 au Levi's Stadium, dans la baie de San Francisco, à Santa Clara, en Californie."
+3,Super_Bowl_50,1,"Comme c'était le 50e Super Bowl, la ligue a souligné « le anniversaire d'or », avec diverses initiatives sur le thème de l'or."
+4,Super_Bowl_50,1,"Il suspendre temporairement la tradition de nommer chaque jeu du Super Bowl avec des chiffres romains (sous lequel le jeu aurait été « Super Bowl L »), de sorte que le logo pourrait mettre en évidence les chiffres arabes 50."
+5,Warsaw,1,"L'une des personnes les plus célèbres née à Varsovie était Maria Skłodowska-Curie, qui a obtenu une reconnaissance internationale pour ses recherches sur la radioactivité et a été la première femme lauréate du prix Nobel."
+6,Warsaw,1,Musiciens célèbres incluent Władysław Szpilman et Frédéric Chopin.
+7,Warsaw,1,"Bien que Chopin est né dans le village de Żelazowa Wola, à 60 km (37 mi) de Varsovie, il s’installe à la ville avec sa famille alors qu’il était âgé de sept mois."
+8,Warsaw,1,"Casimir Pulaski, un général polonais et héros de la guerre d’indépendance américaine, est né ici en 1745."
+9,Normans,1,"Les Normands étaient les personnes qui, dans les 10ème et 11ème siècles, donnèrent leur nom à la Normandie, une région en France."
+10,Normans,1,"Ils étaient les descendants des aventuriers scandinaves et pirates du Danemark, l’Islande et la Norvège qui, sous leur chef Rollo, a accepté de prêter serment d’allégeance à Charles III, roi de Francia occidental."
+11,Normans,1,"À travers des générations d'assimilation et de mélange avec les populations indigènes franques et romano-gauloises, leurs descendants se fondaient progressivement avec les cultures carolingiennes de l'ouest de la France."
+12,Normans,1,"L'identité culturelle et ethnique distincte des Normands a émergé initialement dans la première moitié du 10ème siècle, et il a continué à évoluer au cours des siècles suivants."
+13,Nikola_Tesla,1,"Nikola Tesla (10 juillet 1856 - 7 janvier 1943) était un inventeur serbe américain, un ingénieur électricien, un ingénieur en mécanique, un physicien et un futuriste."
+14,Nikola_Tesla,1,Il est plus connu pour ses contributions à la conception du système moderne d'alimentation en courant alternatif (AC).
+15,Computational_complexity_theory,1,"La théorie de la complexité computationnelle est une branche de la théorie du calcul en informatique théorique qui se concentre sur la classification des problèmes de calcul en fonction de leur difficulté inhérente, et en reliant ces classes les unes aux autres."
+16,Computational_complexity_theory,1,"Un problème de calcul est considéré comme une tâche qui est en principe susceptible d'être résolue par un ordinateur, ce qui revient à dire que le problème peut être résolu par l'application mécanique d'étapes mathématiques, telles qu'un algorithme."
+17,Teacher,1,"Le rôle de l'enseignant est souvent formel et continu, exercé dans une école ou un autre lieu d'éducation formelle."
+18,Teacher,1,"Dans de nombreux pays, une personne qui souhaite devenir enseignant doit d'abord obtenir des qualifications professionnelles ou des titres de compétences spécifiques d'une université ou d'un collège."
+19,Teacher,1,"Ces qualifications professionnelles peuvent inclure l'étude de la pédagogie, la science de l'enseignement."
+20,Teacher,1,"Les enseignants, comme les autres professionnels, peuvent devoir poursuivre leurs études après leur qualification, un processus connu sous le nom de développement professionnel continu."
+21,Teacher,1,"Les enseignants peuvent utiliser un plan de leçon pour faciliter l'apprentissage des élèves, en fournissant un cours d'étude appelé le curriculum."
+22,Martin_Luther,1,"Martin Luther (10 Novembre 1483 - 18 Février 1546) était un Allemand professeur de théologie, prêtre, moine, et une figure importante de la réformation protestante."
+23,Martin_Luther,1,Luther rejetait plusieurs enseignements et pratiques de l'église Catholique de la fin de l'ére médiévale.
+24,Martin_Luther,1,Il était contre l'affirmation qu'il était possible d'acheter le pardon de Dieu pour ses péchés avec de l'argent.
+25,Martin_Luther,1,Il proposa une discussion académique sur le pouvoir et l'utilité des indulgences dans ses 95 thèses de 1517.
+26,Martin_Luther,1,Son refus de retirer ses écrits a la demande du Pape Leo X en 1520 et de l'empereur du Saint Empire Romain Charles V lors de la Diète de Worms en 1521 résulta en son excommunication par le Pape et a sa mise hors-la-loi par l'Empereur.
+27,Southern_California,1,"La Californie du Sud, souvent abrégé SoCal, est une région géographique et culturelle qui comprend généralement plus au Sud 10 comtés de la Californie."
+28,Southern_California,1,"La région est traditionnellement décrite comme « huit comtés », basées sur les données démographiques et économiques : Imperial, Los Angeles, Orange, Riverside, San Bernardino, San Diego, Santa Barbara et Ventura."
+29,Southern_California,1,"La définition plus large de 10-comté, comprenant les comtés de Kern et San Luis Obispo, est également utilisée issu des divisions politiques historiques."
+30,Southern_California,1,La Californie du sud est un centre économique majeur pour l’état de Californie et les États-Unis.
+31,Sky_(United_Kingdom),1,"Formé en novembre 1990 par la fusion égale de Sky Television et British Satellite Broadcasting, BSkyB est devenue plus grande entreprise de télévision numérique abonnement du Royaume-Uni."
+32,Sky_(United_Kingdom),1,"Après l'acquisition 2014 de BSkyB de Sky Italia et un intérêt de la majorité 90,04% pour le ciel Deutschland en novembre 2014, son plc de British Sky Broadcasting Group Inc de holding a changé son nom en Sky plc."
+33,Sky_(United_Kingdom),1,"Les opérations du Royaume-Uni ont également changé le nom de la société de British Sky Broadcasting Limited en Sky UK Limited, commerçant toujours comme Sky."
+34,Victoria_(Australia),1,"L'économie de Victoria est fortement diversifiée : les secteurs des services comprenant des services financiers et de propriété, la santé, l'éducation, la vente en gros, la vente au détail, l'hospitalité et la fabrication constituent la majorité d'emploi."
+35,Victoria_(Australia),1,"Le produit brut total de l'état de Victoria (système de préférences généralisées) est rangé en second lieu dans l'Australie, bien que Victoria soit rangée quatrièmement en termes de système de préférences généralisées par habitant en raison de son activité limitée d'exploitation."
+36,Victoria_(Australia),1,"The Melbourne Cricket Ground est à la maison à un certain nombre de musées, de galeries d'art et de théâtres et est également décrite comme « capital sportif d'Australie."
+37,Victoria_(Australia),1,"le cricket a Merbourne est le plus grand stadium in Aistralie, et accueille les jeux olympiques de 1956 et les jeux de 2006."
+38,Victoria_(Australia),1,"cet endroit est aussi considere comme la « maison spirituelle » du cricket australien et des regles australiennes de football , et accueille les jeux finals du footbal australian chaque annee, qui ramene environ 95,000 personnes."
+39,Victoria_(Australia),1,"la ville de Victoria comprends huit universites publiques, la plus ancienne etant l'universite de Melbourne, fondee en 1853."
+40,Huguenot,1,"les huguenot etaient environ deux millions  en 1562, et etait concentre principaement dans le sud et centre de la France, environ un huitieme le nombre de Francais catholiques. "
+41,Huguenot,1,"les Huguenots avaient etendu leur infuence, and montraient leur croyances en publique, l'hostilite des catholiques grandit , en depit de leurs concessions politiques lilberales, et Declarations envers la couronne francaise."
+42,Huguenot,1,"Suivi d’une série de conflits religieux, appelés les guerres de Religion, combattu par intermittence de 1562 à 1598."
+43,Huguenot,1,"Les guerres se terminant enfin l’octroi de l’édit de Nantes, qui a accordé l’autonomie religieuse, politique et militaire renforcée de Huguenots."
+44,Steam_engine,1,"Locomotives à vapeur sont des moteurs à combustion externe, où le fluide de travail est séparé des produits de combustion."
+45,Steam_engine,1,"Une source de chaleur sans combustion tels que l’énergie solaire, énergie nucléaire ou l’énergie géothermique peut être utilisée."
+46,Steam_engine,1,Le cycle thermodynamique idéal utilisé pour analyser ce processus s’appelle le cycle de Rankine.
+47,Steam_engine,1,"Dans le cycle, l'eau est chauffée et transformée en vapeur dans une chaudière opérant à pression très forte."
+48,Steam_engine,1,"Quand il traverse les pistions et les turbines, le travail mécanique est fait."
+49,Steam_engine,1,La vapeur à pression réduite est ensuite condensée et renvoyée dans la chaudière.
+50,Oxygen,1,L'oxygène est un élément chimique avec le symbole O et le numéro atomique 8.
+51,Oxygen,1,C'est un membre du groupe chalcogène sur le tableau périodique et est un agent non métallique et oxydant hautement réactif qui forme facilement des composés (notamment des oxydes) avec la plupart des éléments.
+52,Oxygen,1,"L’oxygène est l’élément abondant dans l’univers, le troisième plus après l’hydrogène et l’hélium."
+53,Oxygen,1,"À température et pression standard, deux atomes de l’élément se lient à la forme de dioxygène, un gaz diatomique, incolore et inodore, avec la formule O2."
+54,Oxygen,1,"L'oxygène gazeux diatomique constitue 20,8% de l'atmosphère terrestre."
+55,Oxygen,1,"Cependant, surveillance de l’oxygène atmosphérique niveaux Voir l’une tendance mondiale à la baisse, en raison de la combustion de combustibles fossiles."
+56,Oxygen,1,"L’oxygène est l’élément le plus abondant en masse dans la croûte terrestre dans le cadre des oxydes tels que le dioxyde de silicium, qui composent près de la moitié de la masse de la croûte."
+57,1973_oil_crisis,1,"La crise de 1973 a débuté en octobre 1973 quand les membres de l'Organisation des pays arabes exportateurs de pétrole (OPAEP, composé des Etats arabes membres de l'OPEP et l'Égypte et la Syrie) a proclamé un embargo sur le pétrole."
+58,1973_oil_crisis,1,"D'ici la fin de l'embargo en mars 1974, le prix du pétrole a augmenté, passant de 3 dollars le baril à près de 12 dollars à l'échelle mondiale."
+59,1973_oil_crisis,1,Les prix américains étaient significativement plus élevées.
+60,1973_oil_crisis,1,"L'embargo a provoqué une crise du pétrole, ou « choc », avec de nombreux effets à court et à long terme sur la politique mondiale et l'économie mondiale."
+61,1973_oil_crisis,1,"Il a été plus tard appelé le « premier choc pétrolier », suivie de la crise du pétrole de 1979, appelé le « second choc pétrolier »."
+62,Apollo_program,1,"Le programme Apollo, également connue sous le nom de projet Apollo, a été la troisième United States human spaceflight programme mis au point par la National Aeronautics and Space Administration (NASA), qui fait l'atterrissage le premier homme sur la lune de 1969 à 1972."
+63,Apollo_program,1,"D’abord conçu pendant l’administration de Dwight D.Eisenhower comme un vaisseau spatial de trois hommes à suivre le programme Mercury unipersonnelle qui mettent les premiers américains dans l’espace, Apollo a été plus tard dédié au Président John F.Objectif national de Kennedy de « l’atterrissage d’un homme sur la lune et lui retourner en toute sécurité sur la terre » à la fin des années 1960, qu’il a proposé dans un 25 mai 1961, face au Congrès."
+64,Apollo_program,1,Programme Mercury a été suivie par les deux hommes projet Gemini (1962-66).
+65,Apollo_program,1,Le premier vol habité dApollon était en 1968.
+66,European_Union_law,1,"Droit de l’Union européenne est un ensemble de traités et lois, telles que les règlements et Directives, qui ont l’effet direct ou indirect sur les législations des États membres de l’Union européenne."
+67,European_Union_law,1,"Les trois sources du droit de l’Union européenne sont de droit primaire, secondaire et droit supplétif."
+68,European_Union_law,1,Les principales sources du droit primaire sont les traités instituant l'Union européenne.
+69,European_Union_law,1,Les sources secondaires comprennent les règlements et les directives basés sur les traités.
+70,European_Union_law,1,"Le législateur de l'Union européenne est principalement composé du Parlement européen et du Conseil de l'Union européenne qui, en vertu des traités, peuvent établir un droit dérivé pour poursuivre l'objectif énoncé dans les traités."
+71,Amazon_rainforest,1,"La forêt amazonienne (français: Forêt amazonienne; néerlandais: Amazoneregenwoud), également connue en anglais sous le nom d'Amazonie ou de la jungle amazonienne, est une forêt de feuillus humide qui couvre la majeure partie du bassin amazonien d'Amérique du Sud."
+72,Amazon_rainforest,1,"Ce bassin couvre 7,000,000 kilomètres carrés (2,700,000 milles carrés), dont 5,500,000 kilomètres carrés (2,100,000 milles carrés) sont couverts par la forêt tropicale."
+73,Amazon_rainforest,1,Cette région comprend le territoire des neuf nations.
+74,Amazon_rainforest,1,"La majorité de la forêt se trouve au Brésil, 60 % de la forêt tropicale, suivie par le Pérou avec 13 %, la Colombie avec 10 % et avec des quantités mineures au Venezuela, Équateur, Bolivie, Guyana, Suriname et Guyane Français. "
+75,Amazon_rainforest,1,Les États ou départements de quatre nations contiennent « Amazonas » dans leurs noms.
+76,Amazon_rainforest,1,"L'Amazone représente plus de la moitié des forêts tropicales restantes de la planète et comprend les plus grands et plus riches en biodiversité étendue de forêt tropicale au monde, avec une estimation des 16,000 espèces."
+77,Ctenophora,1,CTENOPHORA (de la κτείς grecque kteis au peigne et φέρω pherō carry ; communément comme gelées de peigne) sont un embranchement d’animaux qui vivent dans les eaux marines dans le monde entier.
+78,Ctenophora,1,Leur caractéristique la plus distinctive est les « peignes » – groupes de cils qu’ils utilisent pour se baigner – ils sont les plus gros animaux qui nagent au moyen de cils.
+79,Ctenophora,1,"Les adultes de diverses espèces vont de quelques millimètres à 1,5 m (4 pi 11 po)."
+80,Ctenophora,1,"Comme les cnidaires, leurs corps consistent en une masse de gelée, avec une couche de cellules à l'extérieur et une autre à l'intérieur de la cavité interne."
+81,Ctenophora,1,"Chez les cténophores, ces couches sont profondes de deux cellules, tandis que celles des cnidaires sont profondes d'une seule cellule."
+82,Ctenophora,1,"Certains auteurs ont combiné des cténophores et des cnidaires dans un même phylum, Coelenterata, car les deux groupes dépendent de l'écoulement de l'eau à travers la cavité du corps à la fois pour la digestion et la respiration."
+83,Ctenophora,1,La prise de conscience croissante des différences a persuadé les auteurs plus récents de les classer comme des phylums distincts.
+84,"Fresno,_California",1,"Fresno (/ˈfrɛznoʊ/ FREZ-noh), le siége du comté de Fresno, est une ville de l'Etat américain de Californie."
+85,"Fresno,_California",1,"En 2015, la population de la ville était de 520,159 habitants, ce qui en fait la cinquiéme plus grande ville de Californie, la plus grande de Californie intérieure et la 34éme plus grande ville du pays."
+86,"Fresno,_California",1,"Fresno est au centre de la vallée de San Joaquin et est la plus grande ville de la Vallée Centrale, dont fait partie la vallée de San Joaquin."
+87,"Fresno,_California",1,"La ville est à approximatviementà 220 miles (350 km) au nord-ouest de Los Angeles, et à 170 miles (270 km) au sud de la Capital étatique, Sacramento, ou encore à 185 miles (300 km) au sud de San Francisco."
+88,"Fresno,_California",1,"Le nom Fresno signifie « frêne » en espagnol, et une feuille de frêne se trouve sur le drapeau de la ville."
+89,Packet_switching,1,"En commençant vers la fin des années 1950, l'informaticien américain Paul Baran a développé le concept le Bloc de Message Adaptable Distribué Échangeant avec le but de fournir une méthode routing tolérante de faute, efficace pour les messages de télécommunication comme faisant partie d'un programme de recherche à la Société de RAND, financée par le Ministère de la défense américain."
+90,Packet_switching,1,"Ce concept a mis en contraste et a contredit des principes établis du theretofore de pré-allocation de bande de fréquence de réseau, grandement fortifiée par le développement de télécommunications dans le Système de Cloche."
+91,Packet_switching,1,Le nouveau concept a trouvé peu de résonance parmi le réseau implementers jusqu'au travail indépendant de Donald Davies au Laboratoire Physique national (le Royaume-Uni) (NPL) vers la fin des années 1960.
+92,Packet_switching,1,"On attribue Davies le fait de forger la commutation de paquets de nom moderne et le fait d'inspirer de nombreux réseaux de commutation de paquets en Europe dans la décade après, en incluant l'incorporation du concept dans premier ARPANET dans les États-Unis."
+93,Black_Death,1,"On pense que la Peste noire soit née dans les plaines arides de l'Asie Centrale, où il a alors voyagé le long de la Route de Soie, en atteignant Crimée par 1343."
+94,Black_Death,1,"De là, il était très probablement porté par des puces de rat Oriental vivant sur les rats noirs qui étaient des passagers réguliers sur les navires marchands."
+95,Black_Death,1,"S'étendant dans toute la Méditerranée et en Europe, on estime que la peste noire a tué 30 à 60% de la population totale de l'Europe."
+96,Black_Death,1,"Au total, la peste a réduit la population mondiale d'environ 450 millions à 350 - 375 millions au 14ème siècle."
+97,Black_Death,1,La population mondiale dans son ensemble n'a pas retrouvé ses niveaux d'avant la peste jusqu'au 17ème siècle.
+98,Black_Death,1,La peste a réapparu de temps en temps en Europe jusqu'au 19ème siècle.
+99,Geology,1,"Il y  a trois types de roches:ignees, sedimantires, matamorphiques."
+100,Geology,1,Le cycle de la roche est un concept important en geologie gui illustre les relations entre ces trois  types de roches et le magma
+101,Geology,1,"Quand une roche cristallise de la fonte (magma ou lave), c'est une roche ignée."
+102,Geology,1,"Cette roche peut être altérée et érodée, puis redéposée et lithifiée en une roche sédimentaire, ou être transformée en une roche métamorphique en raison de la chaleur et de la pression qui modifie la teneur en minéraux de la roche qui lui donne un tissu caractéristique."
+103,Geology,1,"La roche sédimentaire peut ensuite être transformée en une roche métamorphique en raison de la chaleur et de la pression et est ensuite altérée, érodée, déposée et lithifiée, devenant finalement une roche sédimentaire."
+104,Geology,1,"Les roches sédimentaires peuvent aussi être  ré-éroder et re-déposer, et les roches métamorphique peuvent aussi subir des métamorphoses supplémentaires."
+105,Geology,1,"Les trois types de roches peuvent être re-gelés, quand cela arrive, un nouveau magma se forme, duquel une roche ignée peut à nouveau se cristalliser."
+106,Newcastle_upon_Tyne,1,"Newcatsle sur Tyne, générallement connue comme Newcastle, est une ville de Tyne and Wear, Nord-Est de l'Angleterre."
+107,Newcastle_upon_Tyne,1,"Elle est à 166 km (103 mi) au sud de Edimbourg et 446 km (277 mi) au nord de Londres sur la rive nord de la rivière Tyne, à 8,5 miles (13,7 km) de la mer du Nord."
+108,Newcastle_upon_Tyne,1,Newcastle est la ville la plus peuplée dans le Nord-Est et les rives de la Tyne la huitiéme conurbation la plus peuplée du Royaume-Uni.
+109,Newcastle_upon_Tyne,1,Newcastle est membre de groupe anglais des Core Cities et est membre du réseau européen des villes européennes.
+110,Newcastle_upon_Tyne,1,"Newcastle a fait partie du comté de Northumberland jusqu'à 1400, quand c'est devenu un comté lui-même, un statut il a retenu jusqu'à la formation de la partie de Tyne et les Vêtements en 1974."
+111,Newcastle_upon_Tyne,1,Le surnom régional et le dialecte pour les gens de Newcastle et la région environnante sont Geordie.
+112,Victoria_and_Albert_Museum,1,"Le Musée d'Albert et de Victoria (souvent raccourci comme le V*A), Londres, est le plus grand musée du monde d'arts décoratifs et de design, l'habitation une collection permanente de plus de 4,5 millions d'objets."
+113,Victoria_and_Albert_Museum,1,Il a été fondé en 1852 et appelé comme la Reine Victoria et le Prince Albert.
+114,Victoria_and_Albert_Museum,1,"Le V*A est trouvé dans le district Brompton de la Municipalité Royale de Kensington et de Chelsea, dans une région qui est devenue connue comme 'Albertopolis' à cause de son association avec le Prince Albert, Albert Memorial et les institutions culturelles importantes auxquelles il a été associé."
+115,Victoria_and_Albert_Museum,1,"Ceux-ci incluent le Musée d'Histoire naturelle, le Musée de Science et Albert Hall Royal."
+116,Victoria_and_Albert_Museum,1,"Le musée est un corps public non-départemental sponsorisé par le Département pour la Culture, les Mass-média et le Sport."
+117,Victoria_and_Albert_Museum,1,"Comme d'autres musées britanniques nationaux, l'entrée au musée a été libre depuis 2001."
+118,American_Broadcasting_Company,1,"L'Organisme de radiodiffusion américain, a stylisé dans son logo comme abc depuis 1957, est une chaîne de télévision d'émission commerciale américaine qui est possédée par le Groupe de Télévision d'alphabet de Disney-ABC, une filiale de division de Réseaux de Mass-média de Disney de la Compagnie de Walt Disney."
+119,American_Broadcasting_Company,1,Le réseau fait partie des Trois Grandes chaînes de télévision.
+120,American_Broadcasting_Company,1,Le réseau est basé à Colombus Avenue et West 66th Street à Manhattan.
+121,Genghis_Khan,1,Il est venu au pouvoir en unissant de nombreuses tribus nomadiques du nord est de l'Asie.
+122,Genghis_Khan,1,"Après avoir fondé l'empire mongol et s'être proclamé Genghis Khan, il a commencé les invasions mongoles qui ont abouti sur la conquête de la majeure partie de l'Eurasie."
+123,Genghis_Khan,1,"Ceci comprennent des raids ou invasions de Qara Khitai, du Caucase, de l'empire Khwarezmid, des dynasties occidentales Via et Jin."
+124,Genghis_Khan,1,Ces campagnes sont souvent accompagnées de massacres des populations civiles - particulièrement dans terres contrôlées du Khwarezmian et Xia.
+125,Genghis_Khan,1,"Vers la fin de son existence, l'Empire mongol occupait une portion considérable de l'Asie Centrale et de la Chine."
+126,Pharmacy,1,Le mot pharmacie est dérivé de sa racine pharma qui est un terme utilisé depuis le 15e–17e siècle.
+127,Pharmacy,1,"Cependant, la racine grecque originelle de pharmakos signifie sorcellerie voire même poison."
+128,Pharmacy,1,"Outre les responsabilités pharmaceutiques, la pharma offrait des conseils médicaux généraux et une gamme de services qui sont désormais uniquement proposés par d'autres spécialistes de la santé, tels que la chirurgie et la maïeutique."
+129,Pharmacy,1,"La pharma (ce qui était le nom utilisé) opérait souvent à travers des magasins qui vendaient, outre les ingrédients pour les médicaments, tabac et médicaments brevetés."
+130,Pharmacy,1,"Souvent on a appelé l'endroit qui l'a fait un pharmacien et plusieurs langues l'ont comme le terme dominant, bien que leurs pratiques soient plus semblables à une pharmacie moderne, dans l'anglais le pharmacien de terme serait aujourd'hui vu comme démodé ou seulement approproriate si les remèdes faits avec des herbes étaient en vente dans une large mesure."
+131,Pharmacy,1,Le pharmas a aussi utilisé beaucoup d'autres herbes non énumérées.
+132,Pharmacy,1,"Le mot grec Pharmakeia (le grec : αρμακεία) provient de pharmakon (φάρμακον), en signifiant « le médicament », « la médecine » (ou « le poison »)."
+133,Immune_system,1,Le système immun est un système de beaucoup de structures biologiques et de processus dans un organisme qui protège contre la maladie.
+134,Immune_system,1,"Pour fonctionner correctement, un système immun doit découvrir une large variété d'agents, connus comme pathogens, des virus aux vers parasites et les distinguer du propre tissu en bonne santé de l'organisme."
+135,Immune_system,1,"Dans beaucoup d'espèces, le système immun peut être classifié dans les sous-systèmes, comme le système immun inné contre le système immun adaptable, ou l'immunité humoral contre l'immunité arbitrée de cellule."
+136,Immune_system,1,"Dans les humains, la barrière du cerveau de sang, la barrière de liquide de sang-cerebrospinal et les barrières du-cerveau-liquides semblables séparent le système immun périphérique du système neuroimmune qui protège le cerveau."
+137,Civil_disobedience,1,Une de ses premières implémentations massives a été provoquée par les Égyptiens contre l'occupation britannique dans la Révolution 1919.
+138,Civil_disobedience,1,La désobéissance civile est une des nombreuses façons que les gens se sont révoltés contre qu'ils jugent pour être des lois injustes.
+139,Civil_disobedience,1,"Il a été utilisé dans beaucoup de mouvements de résistance nonviolents en Inde (les campagnes de Gandhi pour l'indépendance de l'Empire britannique), dans la Révolution de Velours de la Tchécoslovaquie et en Allemagne de l'Est pour évincer leurs gouvernements communistes, dans Afrique du Sud dans la lutte contre l'apartheid, dans le Mouvement pour les droits civils américain, dans la Révolution Chantante pour apporter l'indépendance aux pays Baltes de l'Union soviétique, récemment avec le 2003 est Monté la Révolution à Géorgie et la Révolution Orange 2004 en Ukraine, parmi d'autres mouvements différents dans le monde entier."
+140,Construction,1,La construction est le processus de construire un bâtiment ou une infrastructure.
+141,Construction,1,"La construction diffère de fabriquer dans cette fabrication implique d'une manière caractéristique, la production en série d'articles semblables sans un acheteur désigné, pendant que la construction survient d'une manière caractéristique sur l'endroit pour un client connu."
+142,Construction,1,La construction comme une industrie comprend six à neuf pour cent du produit intérieur brut de pays développés.
+143,Construction,1,"La construction commence avec la planification, le design et le financement et continue jusqu'à ce que le projet ne soit construit et prêt à l'usage."
+144,Private_school,1,"Les écoles privées, également connues sous le nom d'écoles indépendantes, d'écoles non gouvernementales ou non étatiques, ne sont pas administrées par les gouvernements locaux, étatiques ou nationaux."
+145,Private_school,1,"Ainsi, ils conservent le droit de choisir leurs étudiants et sont financés en totalité ou en partie en facturant les frais de scolarité de leurs étudiants, plutôt que de se fier à la taxation obligatoire par le biais d'un financement public (gouvernemental)."
+146,Private_school,1,"Dans certaines écoles privées, les étudiants peuvent obtenir une bourse d'études, ce qui rend le coût moins élevé, selon le talent de l'étudiant."
+147,Private_school,1,"Par exemple bourse de sport, bourse d'art, bourse d'études."
+148,Harvard_University,1,"Établie à l'origine par la législature du Massachusetts et peu de temps après nommée pour John Harvard (son premier bienfaiteur), Harvard est la plus ancienne institution d'enseignement supérieur des États-Unis et la Harvard Corporation (anciennement le président société."
+149,Harvard_University,1,"Bien qu'il n'ait jamais été officiellement affilié à une dénomination, le premier collège a formé principalement le clergé congrégationaliste et unitaire."
+150,Harvard_University,1,"Son programme d’études et son corps d’étudiants ont été progressivement sécularisés au XVIIIe siècle et au XIXe siècle, Harvard était devenu l’établissement culturel central des élites de Boston."
+151,Harvard_University,1,"À la suite de la guerre de Sécession, le long mandat du président Charles W. Eliot (1869-1909) a transformé le collège et les écoles professionnelles affiliées en une université de recherche moderne."
+152,Harvard_University,1,Harvard était membre fondateur de l'Association of American Universities en 1900.
+153,Harvard_University,1,James Bryant Conant a mené l'université à travers la Grande Dépression et la Seconde Guerre mondiale et a commencé à réformer le programme et à libéraliser les admissions après la guerre.
+154,Harvard_University,1,Le collège universitaire est devenu mixte après sa fusion avec le Radcliffe College en 1977.
+155,"Jacksonville,_Florida",1,"Jacksonville est la plus grande ville de la population des États-Unis, en Floride, et la plus grande ville des États-Unis contigus."
+156,"Jacksonville,_Florida",1,"C'est le chef-lieu du comté de Duval, avec lequel le gouvernement de la ville s'est consolidé en 1968."
+157,"Jacksonville,_Florida",1,La consolidation a donné à Jacksonville sa grande taille et placé la majeure partie de sa population métropolitaine dans les limites de la ville.
+158,"Jacksonville,_Florida",1,"Avec une population estimée à 853,382 habitants en 2014, c'est la ville la plus peuplée proprement dite de la Floride et du sud-est, et la 12e plus peuplée des États-Unis."
+159,"Jacksonville,_Florida",1,"Jacksonville est la principale ville de la région métropolitaine de Jacksonville, avec l'OB 1,345,596 en 2010."
+160,Economic_inequality,1,Une étude menée par le World Institute for Development Economics indique que les 1% les plus riches d'adultes possèdent à eux seuls 40% des actifs mondiaux en 2000.
+161,Economic_inequality,1,Les trois hommes de Rochest dans le monde ont plus de ressources financières ont remporté la compétition Lost 48 Nations.
+162,Economic_inequality,1,La richesse des compagnons OP « Les millionnaires de 10 millions de dollars » tombe à l'eau pour 41 milliards de dollars en 2008.
+163,Economic_inequality,1,"Un rapport publié par Oxfam en janvier 2014 affirme que les 85 personnes les plus riches du monde représentent 50% de la population mondiale, soit environ 3.5 milliards de personnes."
+164,Economic_inequality,1,"Selon une analyse du rapport par le Los Angeles Times, le 1% le plus riche possède 46% de la richesse mondiale."
+165,Economic_inequality,1,"Les 85 personnes les plus riches, une petite partie des 1% les plus riches, possèdent environ 0,7% de la richesse de la population humaine, ce qui correspond à la moitié inférieure de la population."
+166,Economic_inequality,1,"Plus récemment, en janvier 2015, Oxfam a indiqué que les 1% les plus riches détiendraient plus de la moitié de la richesse mondiale d'ici 2016."
+167,Economic_inequality,1,Une étude réalisée en octobre 2014 par le Credit Suisse affirme également que le top 1% détient désormais près de la moitié de la richesse mondiale et que l'accélération des disparités pourrait déclencher une récession.
+168,Economic_inequality,1,"En octobre 2015, le Credit Suisse a publié une étude qui montre que l'inégalité mondiale continue d'augmenter et que la moitié de la richesse mondiale se situe désormais en haut du centile supérieur, avec des actifs de plus de 759,900 dollars."
+169,Economic_inequality,1,"Un rapport publié en 2016 craint que les glymas d'Ospam n'indiquent que les 62 indices externalisés, de même que les effets pervers d'un clone du chevauchement global."
+170,Economic_inequality,1,Les allégations d'Oxfam ont toutefois été remises en question sur la base de la méthodologie utilisée.
+171,Economic_inequality,1,"En utilisant la richesse nette (additionnant les actifs et en soustrayant les dettes), le rapport Oxfam, par exemple, constate qu'il y a plus de pauvres aux États-Unis et en Europe occidentale que Chine (en raison d'une plus grande tendance à s'endetter)."
+172,Economic_inequality,1,"Anthony Shorrocks, l’auteur principal du rapport du Credit Suisse, qui est l’une des sources des données d’Oxfam, considère que les critiques à propos de la dette constituent un « argument stupide » et un « non-problème . . . une diversion. »"
+173,Doctor_Who,1,Doctor Who est un programme britannique de science-fiction genre produit par BBC depuis 1963.
+174,Doctor_Who,1,"Le programme dépeint les aventures du Docteur, un extraterrestre humanoïde qui voyage dans le temps et l'espace."
+175,Doctor_Who,1,"Il explore l'univers dans son « TARDIS », un vaisseau spatial qui voyage dans le temps."
+176,Doctor_Who,1,"Son extérieur apparaît comme une boîte de police britannique bleue, qui était une vue commune en Grande-Bretagne en 1963 lorsque la série a été diffusée pour la première fois."
+177,Doctor_Who,1,"Accompagné de compagnons, le Docteur combat divers ennemis tout en travaillant pour sauver les civilisations et aider les personnes dans le besoin."
+178,University_of_Chicago,1,L'Université de Chicago est une université de recherche privée à Chicago.
+179,University_of_Chicago,1,"L'université, créée en 1890, comprend The College, divers programmes d'études supérieures, des comités interdisciplinaires organisés en quatre divisions de recherche universitaire et sept écoles professionnelles."
+180,University_of_Chicago,1,"Au-delà des arts et des sciences, L'Université de Chicago est également réputée pour ses sept écoles professionnelles, notamment la Pritzker School of Medicine, la faculté de commerce Booth de l’Université de Chicago, la faculté de droit, la Harris School of Public Policy. Études, l'École Graham d'études politiques et libérales continues et l'École de théologie."
+181,University_of_Chicago,1,"L’université compte actuellement environ 5,000 étudiants et environ 15,000 étudiants."
+182,Yuan_dynasty,1,"La dynastie des Yuan (chinois: 元朝; pinyin: Yuán Cháo), officiellement le Grand Yuan, était l'empire ou la dynastie régnante de Chine établie par Kublai Khan, chef du clan mongol Borjigin."
+183,Yuan_dynasty,1,"Bien que les Mongols aient régné pendant des décennies sur des territoires comprenant le nord de la Chine, ce n’est qu’en 1271 que Kublai Khan a officiellement proclamé la dynastie dans le style chinois traditionnel."
+184,Yuan_dynasty,1,"Son royaume était alors isolé des autres khanats et contrôlait la majeure partie de la Chine actuelle et de ses régions avoisinantes, y compris la Mongolie moderne et la Corée."
+185,Yuan_dynasty,1,"Ce fut la première dynastie étrangère à gouverner toute la Chine et dura jusqu'en 1368, après quoi ses dirigeants Genghisid retournèrent dans leur patrie mongole et continuèrent à gouverner la dynastie des Yuan du Nord."
+186,Yuan_dynasty,1,"Certains des empereurs mongols du Yuan ont maîtrisé la langue chinoise, tandis que d’autres n’utilisaient que leur langue maternelle (c.-à-d.Mongol) et le script 'Phags-pa."
+187,Kenya,1,"Le Kenya, officiellement la République du Kenya, est un pays d'Afrique, et un membre fondateur de la Communauté de l'Afrique de l'Est (EAC)."
+188,Kenya,1,Sa capitale et la plus grande ville est Nairobi.
+189,Kenya,1,Le territoire du Kenya est situé sur l'équateur et recouvre le rift est-africain couvrant un terrain diversifié et étendu qui s'étend approximativement du lac Victoria au lac Turkana (anciennement appelé lac Rudolf) et plus au sud-est de l'océan Indien.
+190,Kenya,1,"Il est bordé par la Tanzanie au sud, l'Ouganda à l'ouest, le sud du Soudan au nord-ouest, l'Ethiopie au nord et la Somalie au nord-est."
+191,Kenya,1,"Le Kenya couvre 581,309 km2 (224,445 milles carrés) et comptait environ 45 millions d’habitants en juillet 2014."
+192,Intergovernmental_Panel_on_Climate_Change,1,Le Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC) est un organe intergouvernemental scientifique créé sous l'égide des Nations Unies et créé à la demande des gouvernements membres.
+193,Intergovernmental_Panel_on_Climate_Change,1,"Il a été créé en 1988 par deux organismes des Nations Unies, l’Organisation météorologique mondiale (OMM) et le Programme des Nations Unies pour l’environnement (PNUE), puis approuvé par l’Assemblée générale des Nations Unies par la résolution 43/53."
+194,Intergovernmental_Panel_on_Climate_Change,1,L'adhésion au GIEC est ouverte à tous les membres de l'OMM et du PNUE.
+195,Intergovernmental_Panel_on_Climate_Change,1,"Le GIEC produit des rapports qui prennent en charge la Convention-cadre des Nations Unies sur changements climatiques (CCNUCC), qui est le principal traité international sur les changements climatiques."
+196,Intergovernmental_Panel_on_Climate_Change,1,L’objectif ultime de la CCNUCC est de « stabiliser les concentrations de gaz à effet de serre dans l’atmosphère à un niveau qui empêcherait une dangereuse anthropiques perturbation du système climatique. » .
+197,Intergovernmental_Panel_on_Climate_Change,1,"Rapports du GIEC couvrent « les scientifiques, techniques et socioéconomiques informations pertinentes pour comprendre les fondements scientifiques des risques du changement climatique d’origine humaine, ses éventuels impacts et solutions d’adaptation et d’atténuation. » ."
+198,Chloroplast,1,"Rôle principal des chloroplastes est d’effectuer la photosynthèse, où la chlorophylle de pigments photosynthétiques capte l’énergie des rayons du soleil et le convertit et le stocke dans les molécules de stockage d’énergie ATP et le NADPH tout en libérant de l’oxygène de l’eau."
+199,Chloroplast,1,Ils utilisent alors l’ATP et le NADPH pour faire des molécules organiques de dioxyde de carbone dans un processus connu comme le cycle de Calvin.
+200,Chloroplast,1,"Chloroplastes effectuent un certain nombre d’autres fonctions, y compris la synthèse des acides gras, beaucoup d’acides aminés de synthèse et la réponse immunitaire chez les plantes."
+201,Chloroplast,1,Le nombre de chloroplastes par cellule varie de 1 chez les algues jusqu'à 100 chez les plantes comme le blé et Arabidopsis.
+202,Prime_number,1,Un nombre premier (ou un nombre premier) est un entier naturel supérieur à 1 qui n’a aucune diviseurs positifs autres que 1 et lui-même.
+203,Prime_number,1,"Un entier naturel supérieur à 1, ce qui n’est pas un nombre premier est appelé un nombre composé."
+204,Prime_number,1,"Par exemple, 5 est nombre premier car 1 et 5 sont ses facteurs de nombre entier uniquement positif, alors que 6 est composite, parce qu’il a les diviseurs 2 et 3 en plus 1 et 6."
+205,Prime_number,1,Le théorème fondamental de l'arithmétique établit le rôle central des nombres premiers dans la théorie des nombres.
+206,Prime_number,1,Tout nombre entier supérieur à 1 peut être exprimé comme un produit de nombres premiers unique jusqu'à la commande.
+207,Prime_number,1,L'unicité dans ce théorème nécessite d'exclure 1 comme premier car on peut inclure arbitrairement de nombreuses instances de 1 dans toute factorisation.
+208,Prime_number,1,"Par exemple 3, 1 · 3, 1 · 1 · 3, sont toutes des factorisations valides de 3."
+209,Rhine,1,"Le Rhin est une rivière européenne qui commence dans le canton suisse des Grisons, dans le sud-est des Alpes suisses. , Puis la frontière franco-allemande puis suisse-allemande, traverse la Rhénanie et se jette dans la mer du Nord aux Pays-Bas."
+210,Rhine,1,"Puis la frontière franco-allemande puis suisse-allemande, traverse la Rhénanie et se jette dans la mer du Nord aux Pays-Bas."
+211,Rhine,1,"La plus grande ville sur le Rhin est Cologne, en Allemagne, avec une population de plus de 1,050,000 habitants."
+212,Rhine,1,"C'est le deuxième plus long fleuve d'Europe centrale et occidentale (après le Danube), à ​​environ 1,230 kilomètres."
+213,Scottish_Parliament,1,"Après un référendum en 1997, au cours duquel les électeurs écossais ont voté pour la déconcentration, le Parlement actuel a été convoqué par le Scotland Act 1998, qui définit ses pouvoirs en tant que législature décentralisée."
+214,Scottish_Parliament,1,La loi définit la compétence législative du Parlement - les domaines dans lesquels il peut légiférer - en spécifiant explicitement des pouvoirs « réservés » au Parlement du Royaume-Uni.
+215,Scottish_Parliament,1,Le Parlement écossais a le pouvoir de légiférer dans tous les domaines qui ne sont pas explicitement réservés à Westminster.
+216,Scottish_Parliament,1,Le Parlement britannique conserve la possibilité de modifier le mandat du Parlement écossais et peut étendre ou réduire les domaines dans lesquels il peut légiférer.
+217,Scottish_Parliament,1,La première réunion du nouveau Parlement a eu lieu le 12 mai 1999.
+218,Islamism,1,"L'islamisme, également connu sous le nom d'islam politique, est un mouvement de renaissance islamique souvent caractérisé par le conservatisme moral, le littéralisme et la tentative « d'appliquer les valeurs islamiques dans tous les domaines »."
+219,Islamism,1,L'islamisme favorise la réorganisation du gouvernement et de la société conformément à la charia.
+220,Islamism,1,Les différents mouvements islamistes ont été décrits comme « oscillant entre deux pôles ».
+221,Islamism,1,à une extrémité se trouve une stratégie d’islamisation de la société à travers le pouvoir étatique saisi par la révolution ou l’invasion.
+222,Islamism,1,"Aux autres pôles « réformistes », les islamistes travaillent à l'islamisation progressive de la société  « du bas vers le haut »."
+223,Islamism,1,"Les mouvements ont « sans doute modifié le Moyen-Orient plus que toute autre tendance depuis que les Etats modernes ont accédé à l'indépendance », redéfinissant « la politique et même les frontières » selon un journaliste (Robin Wright)."
+224,Imperialism,1,L'impérialisme est un type de plaidoyer de l'empire.
+225,Imperialism,1,"Son nom provient du mot latin « imperium », qui signifie régner sur de grands territoires."
+226,Imperialism,1,"L'impérialisme est « une politique consistant à étendre le pouvoir et l'influence d'un pays par la colonisation, l'utilisation de la force militaire ou d'autres moyens »."
+227,Imperialism,1,L'impérialisme a grandement façonné le monde contemporain.
+228,Imperialism,1,Cela a également permis la diffusion rapide des technologies et des idées.
+229,Imperialism,1,"Le terme impérialisme a été appliqué à la domination politique et économique occidentale (et japonaise), en particulier en Asie et en Afrique aux XIXe et XXe siècles."
+230,Imperialism,1,Sa signification précise continue d’être débattue par les érudits.
+231,Imperialism,1,"Certains auteurs, tels qu'Edward Said, utilisent le terme plus largement pour décrire tout système de domination et de subordination organisé avec un centre impérial et une périphérie."
+232,United_Methodist_Church,1,L'église méthodiste unie (UMC) est une dénomination méthodiste protestante principale.
+233,United_Methodist_Church,1,"Au 19ème siècle, son principal prédécesseur était un chef de file de l’évangélisme."
+234,United_Methodist_Church,1,"Fondé en 1968 par l'union de la Methodist Church (États-Unis) et de la Evangelical United Brethren Church, l'UMC tire ses origines du mouvement de renaissance de John et Charles Wesley en Angleterre et du Grand Réveil aux États-Unis."
+235,United_Methodist_Church,1,"En tant que tel, l'orientation théologique de l'église est résolument wesleyenne."
+236,United_Methodist_Church,1,Il comprend des éléments à la fois liturgiques et évangéliques.
+237,French_and_Indian_War,1,La guerre française et indienne (1754 - 1763) fut le théâtre nord-américain de la guerre mondiale de sept ans.
+238,French_and_Indian_War,1,"La guerre a été menée entre les colonies de l’Amérique britannique et de la Nouvelle-France, les deux camps étant soutenus par des unités militaires de leurs pays d’origine, la Grande-Bretagne et la France, ainsi que par des alliés amérindiens."
+239,French_and_Indian_War,1,"Au début de la guerre, les colonies françaises d’Amérique du Nord comptaient environ 60,000 habitants européen, contre 2 millions dans les colonies britanniques d’Amérique du Nord."
+240,French_and_Indian_War,1,Les Français en infériorité numérique dépendaient surtout des Indiens.
+241,French_and_Indian_War,1,"Longtemps en conflit, les nations métropolitaines se sont déclarées guerre en 1756, faisant de la guerre une affaire régionale à un conflit intercontinental."
+242,Force,1,"Les philosophes de l'Antiquité utilisaient le concept de force dans l'étude des objets fixes et mobiles et des machines simples, mais des penseurs tels qu'Aristote et Archimède conservaient des erreurs fondamentales dans la compréhension de la force."
+243,Force,1,"Cela était dû en partie à une compréhension incomplète de la force de frottement parfois non évidente et, par conséquent, à une vision insuffisante de la nature du mouvement naturel."
+244,Force,1,"Une erreur fondamentale était la conviction qu'une force est nécessaire pour maintenir le mouvement, même à vitesse constante."
+245,Force,1,La plupart des incompréhensions précédentes concernant le mouvement et la force ont finalement été corrigées par Galileo Galilei et Sir Isaac Newton.
+246,Force,1,"Avec sa perspicacité mathématique, Sir Isaac Newton a formulé des lois du mouvement qui n’ont pas été améliorées pendant près de trois cents ans."
+247,Force,1,"Au début du 20ème siècle, Einstein développa une théorie de la relativité qui prédit correctement l'action des forces sur les objets avec des moments croissants près de la vitesse de la lumière, et fournit également un aperçu des forces produites par la gravitation et l'inertie."
