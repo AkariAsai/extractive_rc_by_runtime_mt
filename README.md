@@ -42,10 +42,10 @@ rm master.zip
 For easy set up, we will replace the codes for tokenization process with [mosestokenizer](https://pypi.org/project/mosestokenizer/), the python wrapper for mose's tokenizer, sometime soon. 
 
 ### Train
-The details of training RC and NMT models, see [README.md]() under `rc` directory and [README.md]() under `nmt` directory.
+The details of training RC and NMT models, see [README.md](https://github.com/AkariAsai/extractive_rc_by_runtime_mt/blob/master/rc/README.md) under `rc` directory and [README.md](https://github.com/AkariAsai/extractive_rc_by_runtime_mt/blob/master/nmt/README.md) under `nmt` directory.
 
 
-### Evaluation 
+### Evaluate
 To run the evaluation on multilingual SQuAD dataset, you first need to train your own model for RC and NMT, or use pre-trained models.  
 You can download pretrained models from [Google Drive](https://drive.google.com/drive/folders/1mqz_L5B4uiQ7TPu8F8ytHsIFeMGPtlW1?usp=sharing).
 
@@ -87,8 +87,8 @@ More details can be found in Section 3.3 (SQuAD Test Data for Japanese and Frenc
 
 | | Multilingual SQuAD Datasets       |
 | ------------- |:-------------:|
-| Japanese    | [japanese_squad.json](datasets/squad_japanese_test.json) |
-| French | [french_squad.json](datasets/squad_french_test.json) |
+| Japanese    | [japanese_squad.json](data/squad_japanese_test.json) |
+| French | [french_squad.json](data/squad_french_test.json) |
 
 
 #### {Japanese, French}-to-English bilingual Corpora
@@ -117,8 +117,8 @@ The details pf the creation of these small parallel questions datasets can be fo
 
 | | question sentences        |
 | ------------- |:-------------:|
-| Japanese     | [questions.ja](datasets/questions_jaen.ja), [questions.en](datasets/questions_jaen.en) |
-| French  | [questions.fr](datasets/questions_fren.fr), [questions.en](datasets/questions_jaen.en) |
+| Japanese     | [questions.ja](data/questions_jaen.ja), [questions.en](data/questions_jaen.en) |
+| French  | [questions.fr](data/questions_fren.fr), [questions.en](data/questions_jaen.en) |
 
 
 ## Benchmarks
