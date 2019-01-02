@@ -12,7 +12,70 @@ We introduce the first extractive RC systems for  non-English languages, without
 
 ## Code
 We implemented our NMT and extractive RC models (BiDAF, BiDAF + Self Attention + ELMo) in [PyTorch](https://pytorch.org/).  
-**Code will be released soon.**
+
+### Installation
+The installation steps are as follows:
+
+```bash
+git clone https://github.com/AkariAsai/extractive_rc_by_runtime_mt.git
+cd extractive_rc_by_runtime_mt
+pip install -r requirements.txt
+```
+
+For preprocessing steps, we used [StanfordCoreNLP](https://stanfordnlp.github.io/CoreNLP/) for English, [mosesdecoder's scripts](https://github.com/moses-smt/mosesdecoder) for French and [MeCab](http://taku910.github.io/mecab/) for Japanese.   
+In our implementation, we call StanfordCoreNLP from [py-corenlp](https://github.com/smilli/py-corenlp), moses' tokenizer from [its original perl scrips](https://github.com/moses-smt/mosesdecoder/blob/master/scripts/tokenizer/tokenizer.perl), and MeCab through [mecab-python3](https://pypi.org/project/mecab-python3/).  
+
+##### For English
+For py-corenlp, first make sure you have the Stanford CoreNLP server running. See [this instruction](https://stanfordnlp.github.io/CoreNLP/corenlp-server.html#getting-started).
+
+##### For Japanese
+For mecab-python3, we use [Neologism dictionary for MeCab](https://github.com/neologd/mecab-ipadic-neologd/), instead of default Ochasen.   
+Please install the dictionary beforehand following the instruction on [official page](https://github.com/neologd/mecab-ipadic-neologd/).
+
+##### For French
+You can install mosesdecoder's tokenizer by following the commands listed below. 
+```sh
+wget https://github.com/moses-smt/mosesdecoder/archive/master.zip
+unzip master.zip # files are to be extracted under extractive_rc_by_runtime_mt/mosesdecoder-master/
+rm master.zip
+```
+For easy set up, we will replace the codes for tokenization process with [mosestokenizer](https://pypi.org/project/mosestokenizer/), the python wrapper for mose's tokenizer, sometime soon. 
+
+### Train
+The details of training RC and NMT models, see [README.md](https://github.com/AkariAsai/extractive_rc_by_runtime_mt/blob/master/rc/README.md) under `rc` directory and [README.md](https://github.com/AkariAsai/extractive_rc_by_runtime_mt/blob/master/nmt/README.md) under `nmt` directory.
+
+
+### Evaluate
+To run the evaluation on multilingual SQuAD dataset, you first need to train your own model for RC and NMT, or use pre-trained models.  
+You can download pretrained models from [Google Drive](https://drive.google.com/drive/folders/1mqz_L5B4uiQ7TPu8F8ytHsIFeMGPtlW1?usp=sharing).
+
+For example, you can evaluate on French SQuAD using the pre-trained models by following the processes instructions below.
+
+1. Create `params` directory right under the home directory. 
+2. Download the zipped files `fren_nmt_params.tar.gz` and `rc_params.tar.gz` into `extractive_rc_by_runtime_mt/params` directory, 
+and extract necessary files.
+
+```sh
+tar -xzf params/fren_nmt_params.tar.gz && rm -f params/fren_nmt_params.tar.gz
+tar -xzf params/rc_params.tar.gz && rm -f params/rc_params.tar.gz
+```
+
+3. Run the evaluation based on the command below. 
+
+```sh
+tar -xzf params/fren_nmt_params.tar.gz && rm -f params/fren_nmt_params.tar.gz
+tar -xzf params/rc_params.tar.gz && rm -f params/rc_params.tar.gz
+cd rc
+python main.py evaluate_mlqa ../params/rc_params \
+--evaluation-data-file https://s3-us-west-2.amazonaws.com/allennlp/datasets/squad/squad-dev-v1.1.json \
+--unziped_archive_directory ../params/rc_params --elmo \
+--trans_embedding_model ../params/fren_nmt_params/embedding.bin  \
+--trans_encdec_model  ../params/fren_nmt_params/encdec.bin \
+--trans_train_source ../params/fren_nmt_params/train_fr_lower_1.txt \
+--trans_train_target ../params/fren_nmt_params/train_en_lower_1.txt \
+-l Fr -v5 --beam
+```
+For the details of the command line options, see [rc/evaluate_mlqa.py](https://github.com/AkariAsai/extractive_rc_by_runtime_mt/blob/master/rc/evaluate_mlqa.py)
 
 ## Datasets
 We provide the two datasets, (1) multilingual SQuAD Datasets (Japanese, French) and (2) {Japanese, French}-to-English bilingual corpora to train our NMT models for the extractive RC system.
@@ -24,8 +87,8 @@ More details can be found in Section 3.3 (SQuAD Test Data for Japanese and Frenc
 
 | | Multilingual SQuAD Datasets       |
 | ------------- |:-------------:|
-| Japanese    | [japanese_squad.json](datasets/squad_japanese_test.json) |
-| French | [french_squad.json](datasets/squad_french_test.json) |
+| Japanese    | [japanese_squad.json](data/squad_japanese_test.json) |
+| French | [french_squad.json](data/squad_french_test.json) |
 
 
 #### {Japanese, French}-to-English bilingual Corpora
@@ -54,8 +117,8 @@ The details pf the creation of these small parallel questions datasets can be fo
 
 | | question sentences        |
 | ------------- |:-------------:|
-| Japanese     | [questions.ja](datasets/questions_jaen.ja), [questions.en](datasets/questions_jaen.en) |
-| French  | [questions.fr](datasets/questions_fren.fr), [questions.en](datasets/questions_jaen.en) |
+| Japanese     | [questions.ja](data/questions_jaen.ja), [questions.en](data/questions_jaen.en) |
+| French  | [questions.fr](data/questions_fren.fr), [questions.en](data/questions_jaen.en) |
 
 
 ## Benchmarks

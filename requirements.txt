@@ -1,0 +1,5 @@
+allennlp==0.5.0
+tqdm
+pycorenlp
+python-dotenv
+requests
